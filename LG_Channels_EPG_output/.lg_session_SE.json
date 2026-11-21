@@ -25,14 +25,14 @@
     "X-Device-Publish-Flag": "N"
   },
   "authentication": {
-    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJlaWMudHYud2lzZWxnLmNvbSIsImF1ZCI6WyJ3aXNlbGcuY29tIl0sImlhdCI6MTc5NTE2NjI4OSwiZXhwIjoxNzk1MTczNDg5LCJtYWNBZGRyZXNzIjoiOGMyZjE4NjZhYjNlNTYxZWNiZjE4ZDllYmFhNzU0ZDY5ZGIwOTczYjE0YmI2MDEzNDRlNDNjYWUyYjU2ZjYyNzc4ODhmZjIwYzZiNDE5ZWEyMWNiM2VhNjlmN2ZlN2Q5MzcyNmIxYWQwMjdlMTc2NWNiZDFhMTk1ZTViMjZhYzQifQ.bP3Bu77-GlbF-f7xDqAYYQAzAGOZLR_d2jhqvWF9DDQ",
-    "refreshToken": "9ab7dd42-96b7-4f14-a7e3-a48fadfebdde:1795771089",
+    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJlaWMudHYud2lzZWxnLmNvbSIsImF1ZCI6WyJ3aXNlbGcuY29tIl0sImlhdCI6MTc5NTI1MTI1NSwiZXhwIjoxNzk1MjU4NDU1LCJtYWNBZGRyZXNzIjoiOGMyZjE4NjZhYjNlNTYxZWNiZjE4ZDllYmFhNzU0ZDY5ZGIwOTczYjE0YmI2MDEzNDRlNDNjYWUyYjU2ZjYyNzc4ODhmZjIwYzZiNDE5ZWEyMWNiM2VhNjlmN2ZlN2Q5MzcyNmIxYWQwMjdlMTc2NWNiZDFhMTk1ZTViMjZhYzQifQ.EVzl7m7ydcn7aNWo-jGy6FswU3IkYKN3SpfYHC713IA",
+    "refreshToken": "8513a029-1192-49ae-8af8-c0df10e74bdf:1795856055",
     "deviceUniqueID": "8c2f1866ab3e561ecbf18d9ebaa754d69db0973b14bb601344e43cae2b56f6277888ff20c6b419ea21cb3ea69f7fe7d93726b1ad027e1765cbd1a195e5b26ac4",
     "accessTokenDuration": 6900000,
     "refreshTokenDuration": 604500000,
-    "deviceSecret": "x8Dm+a2sTmcaCUZRLqoz5fMcId7ECLur9mNK7vd8nxvmewkXqGFR1LXktNhVrPN3T2hrHRUXVmwFtKLaBfDKBQlQFG7BdYBUcY4bMpJMrFPx+bylWjC5FzIDf26p+ZpH5NF4FQas6tnWiWnjTY7g/g=="
+    "deviceSecret": "x60IGkOgq/Jgd4uVg3NBLMMA3tOScSBDcFClxa172rVj08BfcKCnkWb/nA7Cbm+rOiV3cIn5dIS6+eIRfH3StIQplB6LejvRJGsnwmRBU3jOJcxhTW8+Z8Z65eqOrd5EAA0DiKQEX5DTEpmwj+kHoQ=="
   },
   "cluster": "EIC",
   "country": "SE",
-  "saved_at_unix": 1795166289.0503213
+  "saved_at_unix": 1795251255.074386
 }
